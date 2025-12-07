@@ -8,6 +8,7 @@
 ![alt text](image-2.png)
 
 - Case
+
 ![alt text](image-3.png)
 
 
@@ -19,5 +20,6 @@ BOM:
 - 4x M3x16 Bolt
 - 4x M3 Heatset
 - 1x SSD1306-0.91-OLED-4pin-128x32
+
 
 
