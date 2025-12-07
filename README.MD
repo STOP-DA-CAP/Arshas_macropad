@@ -1,15 +1,15 @@
-Overall hackpad
+- Overall hackpad
 ![alt text](image.png)
 
-Schematics
+- Schematics
 ![alt text](image-1.png)
 
-PCB
+- PCB
 ![alt text](image-2.png)
 
-
-Case
+- Case
 ![alt text](image-3.png)
+
 
 BOM:
 - 8x Cherry MX swicthes
@@ -19,4 +19,5 @@ BOM:
 - 4x M3x16 Bolt
 - 4x M3 Heatset
 - 1x SSD1306-0.91-OLED-4pin-128x32
+
 
